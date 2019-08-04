@@ -1,0 +1,40 @@
+a:link {color:#0000ff;}
+a:visited {color:#0000ff;}
+a:hover {color:#0000ff;}
+a:active {color:#0000ff;}
+.Wp-Blockquote-P
+{
+    margin:7.0px 24.0px 7.0px 24.0px; text-align:left; font-weight:400;
+}
+.Wp-Body-P
+{
+    margin:0.0px 0.0px 0.0px 0.0px; text-align:left; font-weight:400;
+}
+.Wp-Hyperlink-P
+{
+    margin:0.0px 0.0px 0.0px 0.0px; text-align:right; font-weight:400;
+}
+.Wp-Normal-P
+{
+    margin:0.0px 0.0px 0.0px 0.0px; text-align:left; font-weight:400;
+}
+.Wp-Table-Body-P
+{
+    margin:0.0px 0.0px 0.0px 0.0px; text-align:left; font-weight:400;
+}
+.Wp-Default-Paragraph-Font-C
+{
+    font-family:"Times New Roman", serif;
+}
+.Wp-Emphasis-C
+{
+    font-family:"Times New Roman", serif; font-style:italic;
+}
+.Wp-Placeholder-C
+{
+    font-family:"Times New Roman", serif;
+}
+.Wp-Strong-C
+{
+    font-family:"Times New Roman", serif; font-weight:700;
+}
